@@ -2,7 +2,7 @@
 
 A mobile-friendly digital rate card for **Daniel Kariuki Githua**, IT Solutions Architect & Network Engineer (NetNote Group). Clients browse services and starting prices, then tap **Request quote** to message me on WhatsApp with the service already filled in.
 
-🔗 **Live rate card:** https://YOUR-RATE-CARD-URL-HERE
+🔗 **Live rate card:** https://netnotegroup.github.io/rate-card/
 
 ## Features
 
